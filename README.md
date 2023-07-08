@@ -7,4 +7,5 @@ Food and Beverage Sales Analysis Dashboard
 
 ## Dashboard
 
-![image](https://github.com/mmankoji/Food-Beverage-Sales-Analysis/assets/81578274/59967dfc-f9f3-4a9d-9f46-821fe9f42ccf)
+![image](https://github.com/mmankoji/Food-Beverage-Sales-Analysis/assets/81578274/a8ee891b-a5c7-490b-8722-4f7c1d70c1d7)
+
